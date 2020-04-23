@@ -4,12 +4,13 @@
     "UserName": "",
     "Password": "",
     "CaptchaMode": "0",
+    "ViewMode": 2,
     "RefreshToken": "",
     "SubPath": "/CTList",
-    "RootPathId": "-11",
+    "RootPathId": "5144617224131775",
     "HideItemId": "0",
     "AuthItemId": "",
     "RefreshURL": 198,
-    "RefreshInterval": 1800
+    "RefreshInterval": 604800
   }
 ]
