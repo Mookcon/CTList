@@ -3,7 +3,7 @@
     "Enable": 1,
     "UserName": "",
     "Password": "",
-    "CaptchaMode": "0",
+    "CaptchaMode": "https://api.moeclub.org/SampleCode",
     "ViewMode": 2,
     "RefreshToken": "",
     "SubPath": "/CTList",
